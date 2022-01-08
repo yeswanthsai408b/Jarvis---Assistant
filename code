@@ -1,6 +1,6 @@
 {(frist we want to install some packages so frist in the terminal put the commands below)}
 #pip install pyttsx3
-#pip install speech_recognition
+#pip install speechrecognition
 #pip install os 
 #pip install wikipedia
 #pip install pyjokes
